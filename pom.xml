@@ -9,6 +9,7 @@
 	<description>学习微服务框架Spring Cloud的一些示例代码</description>
 	<modules>
 		<module>spring-cloud-eureka</module>
+		<module>spring-cloud-config</module>
 	</modules>
 
 	<parent>
