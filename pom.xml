@@ -12,6 +12,7 @@
 		<module>spring-cloud-config</module>
 		<module>spring-cloud-zookeeper</module>
 		<module>spring-cloud-ribbon-client</module>
+		<module>spring-cloud-sleuth</module>
 	</modules>
 
 	<parent>
