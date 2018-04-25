@@ -13,6 +13,7 @@
 		<module>spring-cloud-zookeeper</module>
 		<module>spring-cloud-ribbon-client</module>
 		<module>spring-cloud-sleuth</module>
+		<module>spring-cloud-bootstrap</module>
 	</modules>
 
 	<parent>
