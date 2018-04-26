@@ -11,7 +11,6 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
  * @date:   2018年4月17日 下午3:16:06
  * @version V1.0
  * 
- * @Copyright: 2018 www.viewhigh.com Inc. All rights reserved.
  */
 @SpringBootApplication
 @EnableEurekaServer

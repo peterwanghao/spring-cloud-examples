@@ -18,7 +18,6 @@ import org.springframework.web.bind.annotation.RestController;
  * @date:   2018年4月25日 下午1:33:11
  * @version V1.0
  * 
- * @Copyright: 2018 www.viewhigh.com Inc. All rights reserved.
  */
 @SpringBootApplication
 @EnableEurekaClient

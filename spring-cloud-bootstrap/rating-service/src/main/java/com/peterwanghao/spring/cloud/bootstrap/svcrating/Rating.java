@@ -7,7 +7,6 @@ package com.peterwanghao.spring.cloud.bootstrap.svcrating;
  * @date:   2018年4月25日 下午2:13:50
  * @version V1.0
  * 
- * @Copyright: 2018 www.viewhigh.com Inc. All rights reserved.
  */
 public class Rating {
 	private Long id;

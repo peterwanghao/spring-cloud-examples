@@ -11,7 +11,6 @@ import org.springframework.cloud.config.server.EnableConfigServer;
  * @date:   2018年4月25日 上午10:06:50
  * @version V1.0
  * 
- * @Copyright: 2018 www.viewhigh.com Inc. All rights reserved.
  */
 @SpringBootApplication
 @EnableConfigServer

@@ -7,7 +7,6 @@ package com.peterwanghao.spring.cloud.bootstrap.svcbook;
  * @date:   2018年4月25日 下午1:40:26
  * @version V1.0
  * 
- * @Copyright: 2018 www.viewhigh.com Inc. All rights reserved.
  */
 public class Book {
 	private Long id;
