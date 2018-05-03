@@ -15,6 +15,7 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
  * @version V1.0
  * 
  */
+@EnableRedisHttpSession(redisFlushMode = RedisFlushMode.IMMEDIATE)
 @EnableWebSecurity
 @Configuration
 public class SecurityConfig extends WebSecurityConfigurerAdapter {
