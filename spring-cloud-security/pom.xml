@@ -15,5 +15,6 @@
   	<module>gateway-secure</module>
   	<module>book-service-secure</module>
   	<module>rating-service-secure</module>
+  	<module>zipkin</module>
   </modules>
 </project>
