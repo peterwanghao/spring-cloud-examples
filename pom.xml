@@ -15,6 +15,7 @@
 		<module>spring-cloud-sleuth</module>
 		<module>spring-cloud-bootstrap</module>
 		<module>spring-cloud-security</module>
+		<module>spring-cloud-stream</module>
 	</modules>
 
 	<parent>
