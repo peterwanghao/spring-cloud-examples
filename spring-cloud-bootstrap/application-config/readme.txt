@@ -1,0 +1,1 @@
+Spring Cloud Boostrap 工程中所有的配置信息，保存在Git仓库中。
