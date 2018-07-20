@@ -16,6 +16,7 @@
 		<module>spring-cloud-bootstrap</module>
 		<module>spring-cloud-security</module>
 		<module>spring-cloud-stream</module>
+		<module>spring-cloud-oauth</module>
 	</modules>
 
 	<parent>
