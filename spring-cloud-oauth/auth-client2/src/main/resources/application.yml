@@ -8,8 +8,8 @@ server:
 security:
   oauth2:
     client:
-      accessTokenUri: http://localhost:7070/authserver/oauth/token
-      userAuthorizationUri: http://localhost:7070/authserver/oauth/authorize
+      accessTokenUri: http://localhost:7077/authserver/oauth/token
+      userAuthorizationUri: http://localhost:7077/authserver/oauth/authorize
       clientId: second
       clientSecret: passwordforauthserver
     resource:
