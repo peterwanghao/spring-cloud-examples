@@ -17,6 +17,7 @@
 		<module>spring-cloud-security</module>
 		<module>spring-cloud-stream</module>
 		<module>spring-cloud-oauth</module>
+		<module>spring-cloud-hystrix</module>
 	</modules>
 
 	<parent>
