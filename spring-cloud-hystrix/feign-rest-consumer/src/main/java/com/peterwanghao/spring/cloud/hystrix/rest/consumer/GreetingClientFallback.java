@@ -16,7 +16,6 @@ public class GreetingClientFallback implements GreetingClient {
 
 	@Override
 	public String greeting(@PathVariable("username") String username) {
-		System.out.println("-----------------------------------");
 		return "Hello User!";
 	}
 
