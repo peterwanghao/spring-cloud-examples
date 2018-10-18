@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: fakebank
+    
+  datasource:
+    url: jdbc:mysql://localhost:3306/fakebank
+    username: v-fake-60fSchsFo
+    password: A1a-24NNCeaazWCp2EE7
