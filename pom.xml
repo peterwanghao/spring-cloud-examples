@@ -22,6 +22,7 @@
 		<module>spring-cloud-zuul-eureka</module>
 		<module>spring-cloud-task</module>
 		<module>spring-cloud-vault</module>
+		<module>spring-cloud-archaius</module>
 	</modules>
 
 	<parent>
