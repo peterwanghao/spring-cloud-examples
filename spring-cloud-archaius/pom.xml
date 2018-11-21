@@ -13,6 +13,9 @@
 	<description>Spring Cloud Archaius Pom parent</description>
 	<modules>
 		<module>simple_config</module>
+		<module>jdbc-config</module>
+		<module>dynamodb-config</module>
+		<module>zookeeper-config</module>
 	</modules>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
