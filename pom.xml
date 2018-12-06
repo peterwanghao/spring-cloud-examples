@@ -23,6 +23,7 @@
 		<module>spring-cloud-task</module>
 		<module>spring-cloud-vault</module>
 		<module>spring-cloud-archaius</module>
+		<module>spring-cloud-consul</module>
 	</modules>
 
 	<parent>
