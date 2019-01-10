@@ -24,6 +24,7 @@
 		<module>spring-cloud-vault</module>
 		<module>spring-cloud-archaius</module>
 		<module>spring-cloud-consul</module>
+		<module>spring-cloud-contract</module>
 	</modules>
 
 	<parent>
