@@ -16,5 +16,6 @@ public class ZookeeperConfigApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ZookeeperConfigApplication.class, args);
+		
 	}
 }
